@@ -3,3 +3,7 @@ input:focus {
   font-weight: bold;
   color: green;
 }
+
+a:visited {
+  color: blue;
+}
