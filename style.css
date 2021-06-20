@@ -4,6 +4,10 @@ input:focus {
   color: green;
 }
 
+a {
+  text-decoration: none;
+  margin-right: 15px;
+}
 a:visited {
   color: blue;
 }
